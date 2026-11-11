@@ -10,3 +10,4 @@ string address = Console.ReadLine();
 Console.WriteLine($"Your name is {name}, age is {age}, and address is {address}. Thanks!");
 
 
+//test
